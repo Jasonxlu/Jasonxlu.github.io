@@ -8,4 +8,12 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+<blockquote>
+    <b>Northwestern University</b> <br/>
+    Northwestern University's ranking in the 2022 edition <br/> of Best Colleges is National Universities, #9 <br/>
+</blockquote>
+
+<p>
+<strong>B.S. | Computer Science</strong> 
+<br/> I am currently studying Computer Science at Northwestern University aiming to get into the BS/MS program.
+</p>

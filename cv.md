@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resume
+title: Curriculum Vitae
 description: My skills and experience
 image: assets/images/mac.jpeg
 nav-menu: true
