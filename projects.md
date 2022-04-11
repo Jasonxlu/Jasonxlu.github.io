@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'A samll collection of my projects and apps.'
+image: assets/images/codebackground.png
 nav-menu: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Resume
+description: My skills and experience
+image: assets/images/mac.jpeg
 nav-menu: true
 ---
 

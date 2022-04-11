@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: About 
+image: assets/images/me.png
+description: A short history of myself
 nav-menu: true
 ---
 
@@ -12,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About Me</h1>
 		</header>
 
 <!-- Content -->
