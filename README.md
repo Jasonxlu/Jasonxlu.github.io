@@ -1,3 +1,7 @@
+# My Personal Portfolio
+
+This is my personal website which hosts my portfolio of projects and apps. It is customized by myself and built from:
+
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
