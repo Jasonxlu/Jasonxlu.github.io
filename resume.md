@@ -17,5 +17,7 @@ nav-menu: true
         width: 50%;
         margin-top: 50px;
         margin-bottom: 50px;
+        padding-right: 50px;
+        padding-left: 50px;
     }
 </style>
