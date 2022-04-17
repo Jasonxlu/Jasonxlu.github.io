@@ -10,7 +10,7 @@ nav-menu: true
 
 <div class="content">
 			<div class="inner">
-					<a href="assets/Resume.pdf" class="button special icon fa-download">Download</a>
+					<a href="assets/Resume.pdf" class="button special icon fa-download" target="_blank" rel="noopener noreferrer">Download</a>
 			</div>
         </div>
 
