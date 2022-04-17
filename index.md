@@ -14,6 +14,6 @@ show_tile: false
 </blockquote>
 
 <p>
-<strong>B.S. | Computer Science</strong> 
-<br/> I am currently studying Computer Science at Northwestern University aiming to get into the BS/MS program.
+<strong>B.S. | Computer Science '25</strong>
+<br/> I am currently studying Computer Science and aiming to get into the BS/MS program.
 </p>
