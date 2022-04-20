@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'A collection of my projects and apps.'
+description: 'A collection of my apps and projects.'
 image: assets/images/xcode_back.png
 nav-menu: true
 ---
