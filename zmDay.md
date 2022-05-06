@@ -47,7 +47,7 @@ Your son, </strong>
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 50%;
+        width: 65%;
         margin-top: 50px;
         margin-bottom: 25px;
         padding-right: 50px;
@@ -58,7 +58,7 @@ Your son, </strong>
     .offset {
         display: block;
         margin-left: auto;
-        margin-right: 50%;
+        margin-right: 60%;
         width: 50%;
         margin-top: 0px;
         margin-bottom: 25px;
