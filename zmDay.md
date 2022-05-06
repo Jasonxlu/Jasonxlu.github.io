@@ -7,7 +7,7 @@ nav-menu: False
 ---
 
 <img class="center" src="assets/images/hmd2.png" style="width:50%; height:50%;">
-<p class= "center2" id ="para">
+<p class="center2" id ="para">
 <strong>Dear Mom, <br/><br/>
 
 &emsp;&emsp;I'm sorry I can't spend mother's day with you at home this year and I rarely call due to how busy I am. 
@@ -30,6 +30,9 @@ Your son, </strong>
         </div>
 
 <style>
+    body {
+        background-image: linear-gradient(mediumorchid,maroon);
+    }
     .center {
         display: block;
         margin-left: auto;
