@@ -31,7 +31,7 @@ Your son, </strong>
 
 <style>
     body {
-        background-image: linear-gradient(mediumorchid,maroon);
+        background-image: linear-gradient(pink,mediumorchid,maroon);
     }
     .center {
         display: block;
