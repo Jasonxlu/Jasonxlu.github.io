@@ -1,5 +1,5 @@
 # site settings
-title: Jason Lu
+title: Jason Lu's
 subtitle: Portfolio
 email: jasonlu2025@u.northwestern.edu
 description: Welcome to my portfolio!<br /> Feel free to check out some of my work.
@@ -15,7 +15,7 @@ phone: https://www.linkedin.com/in/jasonlu230
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 2
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands

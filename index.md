@@ -15,5 +15,5 @@ show_tile: false
 
 <p>
 <strong>B.S. | Computer Science '25</strong>
-<br/> I am currently studying Computer Science and aiming to get into the BS/MS program.
+<br/> I am currently studying Computer Science and on track to pursue both a Bachelors and Masters degree as a part of the BS/MS program.
 </p>

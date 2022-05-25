@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About 
+title: Samples
 image: assets/images/me.png
-description: A short history of myself
-nav-menu: true
+description: Samples for markdown
+nav-menu: false
 ---
 
 <!-- Main -->
