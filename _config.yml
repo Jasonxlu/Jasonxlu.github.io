@@ -37,6 +37,8 @@ markdown: kramdown
 sass:
   style: compressed
 
+google-analytics: G-VQX6SF2R01
+
 exclude:
 - "*.gemspec"
 - LICENSE.md

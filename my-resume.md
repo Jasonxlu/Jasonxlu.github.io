@@ -13,8 +13,10 @@ nav-menu: true
         width: 75%;
         margin-top: 50px;
         margin-bottom: 25px;
-        padding-right: 50px;
-        padding-left: 50px; 
+        padding-right: 25px;
+        padding-left: 25px; 
+        padding-top: 25px;
+        padding-bottom: 25px;
         max-width: 75%;
         height: auto;
     }
@@ -22,6 +24,7 @@ nav-menu: true
     #resume {
         cursor: pointer;
         transition: 0.3s;
+        box-shadow: 0px 6px 8px 0 rgba(0, 0, 0, 0.2), 0px 8px 20px 0 rgba(0, 0, 0, 0.19);
     }
 
     #resume:hover {
