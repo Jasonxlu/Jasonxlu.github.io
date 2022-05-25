@@ -63,7 +63,7 @@ nav-menu: true
         height: 150px;
     }
 
-    /* Animation */
+    /* Animation (Find in _image.scss file) */
     .modal-content, #caption {
         animation-name: zoom;
         animation duration: 0.6s;
@@ -122,7 +122,7 @@ nav-menu: true
     var captionText = document.getElementById("caption");
     img.onclick = function()
     {
-        modal.style.display = "block";
+        modal.style.display = "inline-block";
         modalImg.src = this.src;
         captionText.innerHTML = this.alt;
     }
