@@ -32,7 +32,7 @@ nav-menu: true
     .modal {
         display: none;
         position: fixed;
-        z-index: 1;
+        z-index: 2;
         padding-top: 100px;
         left: 0;
         top: 0;
@@ -100,7 +100,7 @@ nav-menu: true
 
 </style>
 
-<img class="center" id="resume" src="assets/images/0001.jpg" alt="Last updated:">
+<img class="center" id="resume" src="assets/images/0001.jpg" alt="Last updated: 5/24/2022">
 
 <!-- Modal  -->
 <div id="resumeModal" class="modal"> 
