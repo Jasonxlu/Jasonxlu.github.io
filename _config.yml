@@ -3,7 +3,7 @@ title: Jason Lu
 subtitle: Portfolio
 email: jasonlu2025@u.northwestern.edu
 description: Welcome to my portfolio!<br /> Feel free to check out some of my work.
-baseurl:  /home # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: 'https://Baconay.github.io' # the base hostname & protocol for your site
 author: Jason Lu
 street_address: https://github.com/baconay
