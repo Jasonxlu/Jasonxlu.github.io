@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/fintech.png %}" alt="" data-position="center center" style="padding-left: 25px;"/>
+			<img src="{% link assets/images/fintech.png %}" alt="" data-position="center center" style="padding-left: 25px; padding-right:25px;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/hookup.jpg %}" alt="" data-position="top center" style="padding-right:25px; padding-bottom:25px; padding-top:25px;"/>
+			<img src="{% link assets/images/hookup.jpg %}" alt="" data-position="top center" style="padding-right:25px; padding-bottom:25px; padding-top:25px; padding-left:25px;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +55,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pacman.jpeg%}" alt="" data-position="25% 25%" style="padding-left:25px; padding-bottom:25px; padding-top:25px;"/>
+			<img src="{% link assets/images/pacman.jpeg%}" alt="" data-position="25% 25%" style="padding-left:25px; padding-bottom:25px; padding-top:25px; padding-right:25px;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -71,7 +71,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/racketlogo.png %}" alt="" data-position="center center" style="padding-right: 25px; padding-bottom: 25px; padding-top:25px;"/>
+			<img src="{% link assets/images/racketlogo.png %}" alt="" data-position="center center" style="padding-right: 25px; padding-bottom: 25px; padding-top:25px; padding-left:25px;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -96,7 +96,7 @@ nav-menu: true
 		</header>
 		<p>Plenty more projects coming up!</p>
 		<ul class="actions">
-			<li><a href="index.html" class="button next">Home</a></li>
+			<li><a href="https://lujason.com" class="button next">Home</a></li>
 		</ul>
 	</div>
 </section>
