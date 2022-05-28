@@ -4,9 +4,9 @@ subtitle: Portfolio
 email: jasonlu2025@u.northwestern.edu
 description: Welcome to my portfolio!<br /> Feel free to check out some of my work.
 baseurl: # the subpath of your site, e.g. /blog
-url: 'https://Baconay.github.io' # the base hostname & protocol for your site
+url: 'https://Jasonxlu.github.io' # the base hostname & protocol for your site
 author: Jason Lu
-street_address: https://github.com/baconay
+street_address: https://github.com/jasonxlu
 city: 
 state: 
 zip_code: 
@@ -22,7 +22,7 @@ tiles-count: 2
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/baconay
+  GitHub: https://github.com/jasonxlu
   GitLab:
   Google-Plus: 
   Instagram: https://www.instagram.com/jasonlu.23/
