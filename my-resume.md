@@ -103,7 +103,7 @@ nav-menu: true
 
 </style>
 
-<img class="center" id="resume" src="assets/images/0001.jpg" alt="Last updated: 5/24/2022">
+<img class="center" id="resume" src="assets/images/Resume.jpg" alt="Last updated: 7/13/2022">
 
 <!-- Modal  -->
 <div id="resumeModal" class="modal"> 
@@ -114,7 +114,7 @@ nav-menu: true
 
 <div class="content">
     <div class="inner">
-            <a href="assets/Resume.pdf" class="button special icon fa-download" target="_blank" rel="noopener noreferrer">Download</a>
+            <a href="assets/Resume-.pdf" class="button special icon fa-download" target="_blank" rel="noopener noreferrer">Download</a>
     </div>
 </div>
 

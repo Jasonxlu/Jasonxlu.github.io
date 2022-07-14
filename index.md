@@ -14,6 +14,6 @@ show_tile: false
 </blockquote>
 
 <p>
-<strong>B.S. | Computer Science '25</strong>
-<br/> I am currently studying Computer Science and on track to pursue both a Bachelors and Masters degree as a part of the BS/MS program.
+<strong>B.S./M.S. | Computer Science '25</strong>
+<br/> On track to pursue both a Bachelors and Masters degree in CS as part of the BS/MS program.
 </p>
