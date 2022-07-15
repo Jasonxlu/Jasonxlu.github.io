@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-image: assets/images/mac.jpeg
+image: assets/images/purple.jpeg
 description: An overview of my experience. 
 nav-menu: true
 ---
@@ -114,7 +114,7 @@ nav-menu: true
 
 <div class="content">
     <div class="inner">
-            <a href="assets/Resume-.pdf" class="button special icon fa-download" target="_blank" rel="noopener noreferrer">Download</a>
+            <a href="assets/Resume-.pdf" class="button special icon fa-download" target="_blank" rel="noopener noreferrer" download="Resume-">Download</a>
     </div>
 </div>
 

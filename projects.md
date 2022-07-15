@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'A collection of my apps and projects.'
-image: assets/images/xcode_back.png
+image: assets/images/blue.jpeg
 nav-menu: true
 ---
 
@@ -32,7 +32,8 @@ nav-menu: true
 				</header>
 				<p>As a part of Northwestern University's Financial Technology Club, I have been working with a team of other students to develop the infrastructure behind the club's trading platform. Using Python, we are pulling data from multiple web streams and processing them concurrently with various Python libraries.</p>
 				<ul class="actions">
-					<li><a href="/2016/08/26/markdwn.html" class="button">Learn more</a></li>
+					<li><a href="/2016/08/26/markdwn.html" class="button">GitHub Repo</a></li>
+					<li><a href="/2016/08/26/markdwn.html" class="button special">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +49,7 @@ nav-menu: true
 				</header>
 				<p>A great source of experience in project management and product development was Design Thinking and Communication (DTC 1) at Northwestern University. HookUp is the culmination of 10 weeks worth of development on a space efficient and accessible bike storage solution for condominiums in the Chicago area. I worked in a team of 4 to iterate through the design process and develop a working prototype for our clients.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Final Report</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,7 +65,8 @@ nav-menu: true
 				</header>
 				<p>Created as the final project for CS211 (C/C++) at Northwestern University, I along with my partner programmed a fully functioning Pac-Man clone in C++. We implemented the MVC architechural design pattern and worked with the GE211 game engine. We plan to implement procedural maze generation and ghost AI as future developments.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">GitHub Repo</a></li>
+					<li><a href="generic.html" class="button special">Demo</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +82,7 @@ nav-menu: true
 				</header>
 				<p>Concluding the Fundamentals of Computer Programming course (CS111) at Northwestern, I worked in a small team of 3 to create a basic text-based adventure game written in the Racket programming language. Our team utilized pair programming and familiarized ourselves with LISP concepts and styles during the development process. </p>
 				<ul class="actions">
-					<li><a href="/2016/08/26/markdwn.html" class="button">Learn more</a></li>
+					<li><a href="/2016/08/26/markdwn.html" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
