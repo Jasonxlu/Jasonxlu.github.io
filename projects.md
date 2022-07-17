@@ -13,9 +13,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>This Page is Currently a Work-In-Progress</h2>
+			<h2>My Skills</h2>
 		</header>
-		<p style="font-size:20px;">This is a collection of my Projects and Apps. Feel free to check out my work!</p>
+		<blockquote style="font-size:20px;"> 
+		Languages: <br/>
+		Technologies: <br/>
+		Frameworks:
+		</blockquote>
 	</div>
 </section>
 
@@ -106,3 +110,9 @@ nav-menu: true
 
 
 </div>
+
+<style>
+	#one {
+		/* background-image: url("../assets/images/banner.jpg"); */
+	}
+</style>
