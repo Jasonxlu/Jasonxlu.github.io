@@ -17,7 +17,10 @@ show_tile: false
 <br/> Data Science and Engineering Minor 
 <br/> On track to pursue both a Bachelors and Masters degree in CS as part of the BS/MS program. </div>
 </div>
+</blockquote>
 
+<blockquote>
+    <b> Relevant Coursework: </b> Data Structures and Algorithms, Multivariate Calculus, Linear Algebra, Signal Processing, Solid State Engineering, Macroeconomics, Differential Equations, Functional Programming, C/C++ Programming, Python Programming, Statics, Design Thinking & Communication
 </blockquote>
 
 <style>
@@ -26,6 +29,7 @@ show_tile: false
     #nu {
     height:32%;
     width:32%;
+    margin-bottom: 10px;
   }
 }
 
@@ -34,6 +38,7 @@ show_tile: false
     #nu {
     height:30%;
     width:30%;
+    margin-bottom: 10px;
   }
 }
 

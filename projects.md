@@ -13,12 +13,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>My Skills</h2>
+			<h2>Skills</h2>
 		</header>
-		<blockquote style="font-size:20px;"> 
-		Languages: <br/>
-		Technologies: <br/>
-		Frameworks:
+		<blockquote> 
+		<b>Languages: </b> Python, Java, C, C++, JavaScript, HTML, CSS, SASS, Markdown, Racket<br/>
+		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, WebSocket, Firebase, NodeJS, Python Multiprocessing<br/>
+		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap
 		</blockquote>
 	</div>
 </section>
@@ -97,12 +97,8 @@ nav-menu: true
 <!-- Three -->
 <section id="three">
 	<div class="inner">
-		<header class="major">
-			<h2>To Be Continued...</h2>
-		</header>
-		<p>Plenty more projects coming up!</p>
 		<ul class="actions">
-			<li><a href="https://lujason.com" class="button next">Home</a></li>
+			<li><a href="https://lujason.com" class="button icon fa-download special">Home</a></li>
 		</ul>
 	</div>
 </section>
