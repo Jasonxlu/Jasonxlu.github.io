@@ -37,7 +37,7 @@ nav-menu: true
 				<p>As a part of Northwestern University's Financial Technology Club, I have been working with a team of other students to develop the infrastructure behind the club's trading platform. Using Python, we are pulling data from multiple web streams and processing them concurrently with various Python libraries.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="/2016/08/26/markdwn.html" class="button special">Learn More</a></li>
+					<li><a href="https://northwesternfintech.github.io/" class="button special">Website</a></li>
 				</ul>
 			</div>
 		</div>
