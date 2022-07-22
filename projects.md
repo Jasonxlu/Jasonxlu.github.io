@@ -66,7 +66,7 @@ nav-menu: true
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Jasonxlu/Pac-Man-PlusPlus" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="generic.html" class="button special">Demo</a></li>
+					<li><a href="https://youtu.be/f8vTbcUvP50" class="button special">Demo</a></li>
 				</ul>
 			</div>
 		</div>
