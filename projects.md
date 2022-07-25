@@ -18,7 +18,7 @@ nav-menu: true
 		<blockquote> 
 		<b>Languages: </b> Python, Java, C, C++, JavaScript, HTML, CSS, SASS, Markdown, Racket<br/>
 		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, WebSocket, Firebase, NodeJS, Python Multiprocessing, AsyncIO<br/>
-		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui, Kivy
+		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui, Kivy, Jest
 		</blockquote>
 	</div>
 </section>
