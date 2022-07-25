@@ -18,7 +18,7 @@ nav-menu: true
 		<blockquote> 
 		<b>Languages: </b> Python, Java, C, C++, JavaScript, HTML, CSS, SASS, Markdown, Racket<br/>
 		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, WebSocket, Firebase, NodeJS, Python Multiprocessing, AsyncIO<br/>
-		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui
+		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui, Kivy
 		</blockquote>
 	</div>
 </section>
@@ -38,7 +38,7 @@ nav-menu: true
 					<ul>
 						<li>Deployed official NUFT website with custom HTML, CSS, JS, SASS to establish central hub for club activities and inquiries</li>
 						<li>Developed and documented storage paradigms for 5+ data input streams using Python Multiprocessing and WebSocket</li>
-						<li>Designed and adapted command line interface to GUI using DearPyGUI to enable uniform data acquisition and analysis from project teams</li>
+						<li>Designed and adapted command line interface to GUI using Kivy to enable uniform data acquisition and analysis from project teams</li>
 					</ul>
 				</p>
 				<ul class="actions">
