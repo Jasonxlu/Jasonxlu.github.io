@@ -60,7 +60,6 @@ nav-menu: true
 				<p>
 					<ul>
 						<li>Built official Northwestern University Stock Exchange website using React, Typescript, Next.js, and TailwindCSS to establish a platform for stock market simulations</li>
-						<li>Authentication with Firebase</li>
 					</ul>
 				</p>
 				<ul class="actions">
