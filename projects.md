@@ -20,8 +20,17 @@ nav-menu: true
 		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, WebSocket, Firebase, NodeJS, Python Multiprocessing, AsyncIO, Jest<br/>
 		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui, Kivy, TailwindCSS, NextJS
 		</blockquote>
+  
+<style>
 
-<table>
+  @media (max-width: 640px) {
+    #tech {
+      display: none;
+    }
+  }
+</style>
+
+<table id="tech">
   <tr>
     <td align="center" height="108" width="108">
       <img
