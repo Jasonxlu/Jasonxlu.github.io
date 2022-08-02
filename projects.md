@@ -20,7 +20,7 @@ nav-menu: true
 		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, WebSocket, Firebase, NodeJS, Python Multiprocessing, AsyncIO, Jest<br/>
 		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui, Kivy, TailwindCSS, NextJS
 		</blockquote>
-<blockquote>
+
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -220,7 +220,6 @@ nav-menu: true
     </td>
   </tr>
 </table>
-</blockquote>
 	</div>
 </section>
 
