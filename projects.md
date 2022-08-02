@@ -16,9 +16,9 @@ nav-menu: true
 			<h2>Skills</h2>
 		</header>
 		<blockquote> 
-		<b>Languages: </b> Python, Java, C, C++, JavaScript, HTML, CSS, SASS, Markdown, Racket<br/>
-		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, WebSocket, Firebase, NodeJS, Python Multiprocessing, AsyncIO<br/>
-		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui, Kivy, Jest
+		<b>Languages: </b> Python, Java, C, C++, JavaScript, Typescript, HTML, CSS, SASS, Markdown, Racket<br/>
+		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, WebSocket, Firebase, NodeJS, Python Multiprocessing, AsyncIO, Jest<br/>
+		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui, Kivy, TailwindCSS, NextJS
 		</blockquote>
 	</div>
 </section>
@@ -44,6 +44,28 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a></li>
 					<li><a href="https://northwesternfintech.github.io/" class="button special">Website</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/NUSE.png %}" alt="" data-position="center center" style="padding-left: 25px; padding-right:25px; padding-top:20px; padding-bottom:20px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NUSE Trade Site</h3>
+				</header>
+				<p>
+					<ul>
+						<li>Built official Northwestern University Stock Exchange website using React, Typescript, Next.js, and TailwindCSS to establish a platform for stock market simulations</li>
+						<li>Authentication with Firebase</li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/northwesternfintech" target="_blank" class="button">GitHub Repo</a></li>
+					<li><a href="#" class="button special">Website</a></li>
 				</ul>
 			</div>
 		</div>
