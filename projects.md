@@ -257,6 +257,29 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+  <section>
+		<a class="image">
+			<img src="{% link assets/images/LCLB.png %}" alt="" data-position="center center" style="padding-left: 25px; padding-right:25px; padding-top:30px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NUFT LeetCode Leaderboard </h3>
+				</header>
+				<p>
+					<ul>
+						<li>Developed custom LC leaderboard for NUFT to boost intrinsic motivation of members for technical interview prep</li>
+						<li>Statically rendered and updated ranking of members using GraphQL queries to LeetCode API to pull real-time stats</li>
+						<li>Deployed with Vercel on GitHub to create CI/CD pipeline for streamlined development and deployment </li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://lc-leaderboard-eta.vercel.app/" class="button special">Website</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section>
 		<a class="image">
 			<img src="{% link assets/images/NUSE.png %}" alt="" data-position="center center" style="padding-left: 25px; padding-right:25px; padding-top:20px; padding-bottom:20px;"/>
