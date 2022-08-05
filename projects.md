@@ -252,7 +252,7 @@ nav-menu: true
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="https://northwesternfintech.github.io/" class="button special">Website</a></li>
+					<li><a href="https://northwesternfintech.github.io/" target="_blank" class="button special">Website</a></li>
 				</ul>
 			</div>
 		</div>
@@ -275,7 +275,7 @@ nav-menu: true
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="https://lc-leaderboard-eta.vercel.app/" class="button special">Website</a></li>
+					<li><a href="https://lc-leaderboard-eta.vercel.app/" target="_blank" class="button special">Website</a></li>
 				</ul>
 			</div>
 		</div>
@@ -319,7 +319,7 @@ nav-menu: true
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/Jasonxlu/Pac-Man-PlusPlus" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="https://youtu.be/f8vTbcUvP50" class="button special">Demo</a></li>
+					<li><a href="https://youtu.be/f8vTbcUvP50" target="_blank" class="button special">Demo</a></li>
 				</ul>
 			</div>
 		</div>
