@@ -236,7 +236,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/fintech.png %}" alt="" data-position="center center" style="padding-left: 25px; padding-right:25px;"/>
+			<img src="{% link assets/images/nuft.png %}" alt="" data-position="center center" style="padding-left: 25px; padding-right:25px; padding-top:25px;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -256,8 +256,9 @@ nav-menu: true
 				</p>
 				<ul class="actions">
 					<li><a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="https://northwesternfintech.github.io/" target="_blank" class="button special">Website</a></li>
           <li><a href="https://www.figma.com/file/135OhNv3xmb5eRGRCNNFAZ/Northwestern-Financial-Technology-Club?node-id=0%3A1" target="_blank" class="button">Figma</a></li>
+          <li><a href="https://nuft.notion.site/nuft/Northwestern-University-FinTech-Club-7aaab23485bb4d55a3032fd87951fb7c" target="_blank" class="button special">Notion</a></li>
+          <li><a href="https://northwesternfintech.github.io/" target="_blank" class="button special">Website</a></li>
 				</ul>
 			</div>
 		</div>
@@ -325,6 +326,27 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://github.com/Jasonxlu/Pac-Man-PlusPlus" target="_blank" class="button">GitHub Repo</a></li>
 					<li><a href="https://youtu.be/f8vTbcUvP50" target="_blank" class="button special">Demo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+  <section>
+		<a class="image">
+			<img src="{% link assets/images/JL.png%}" alt="" data-position="25% 25%" style="padding-left:25px; padding-bottom:25px; padding-top:25px; padding-right:25px;"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Web Portfolio</h3>
+				</header>
+				<p>
+					<ul>
+						<li>Produced personalized HTML, CSS, JS, and Markdown snippets to host technical projects and applications on the web</li>
+						<li>Employed simple static web hosting using Jekyll and GitHub pages to optimize website ease-of-access and reliability</li>
+					</ul>
+				</p>
+				<ul class="actions">
+					<li><a href="https://github.com/Jasonxlu/Jasonxlu.github.io" target="_blank" class="button">GitHub Repo</a></li>
 				</ul>
 			</div>
 		</div>
