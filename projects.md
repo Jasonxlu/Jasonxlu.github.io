@@ -241,13 +241,17 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NUFT Systems Infrastructure</h3>
+					<h3>Northwestern Financial Technologies Club</h3>
 				</header>
 				<p>
 					<ul>
 						<li>Deployed official NUFT website with custom HTML, CSS, JS, SASS to establish central hub for club activities and inquiries</li>
 						<li>Developed and documented storage paradigms for 5+ data input streams using Python Multiprocessing and WebSocket</li>
-						<li>Designed and adapted command line interface to GUI using Kivy to enable uniform data acquisition and analysis from project teams</li>
+            <li>Coordinated with leadership and technical teams to better integrate APIs and backend data pipelines with CLI</li>
+            <li>Established team workflow and organized weekly meetings to actively track progress of systems development</li>
+            <li>Building trading site for Northwestern University Stock Exchange to facilitate high volume stock market simulations</li>
+            <li>Created overarching club overview in Figma to facilitate faster and more efficient onboarding</li>
+            <li>Designed and constructed basic Command Line Interface foundation to enable uniform data acquisition and analysis from project teams </li>
 					</ul>
 				</p>
 				<ul class="actions">
