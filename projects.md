@@ -253,6 +253,7 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a></li>
 					<li><a href="https://northwesternfintech.github.io/" target="_blank" class="button special">Website</a></li>
+          <li><a href="https://www.figma.com/file/135OhNv3xmb5eRGRCNNFAZ/Northwestern-Financial-Technology-Club?node-id=0%3A1" target="_blank" class="button">Figma</a></li>
 				</ul>
 			</div>
 		</div>
