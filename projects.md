@@ -255,10 +255,10 @@ nav-menu: true
 					</ul>
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a></li>
-          <li><a href="https://www.figma.com/file/135OhNv3xmb5eRGRCNNFAZ/Northwestern-Financial-Technology-Club?node-id=0%3A1" target="_blank" class="button">Figma</a></li>
-          <li><a href="https://nuft.notion.site/nuft/Northwestern-University-FinTech-Club-7aaab23485bb4d55a3032fd87951fb7c" target="_blank" class="button special">Notion</a></li>
-          <li><a href="https://northwesternfintech.github.io/" target="_blank" class="button special">Website</a></li>
+					<li style="padding-bottom:15px"><a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a></li>
+          <li style="padding-bottom:15px"><a href="https://www.figma.com/file/135OhNv3xmb5eRGRCNNFAZ/Northwestern-Financial-Technology-Club?node-id=0%3A1" target="_blank" class="button">Figma</a></li>
+          <li style="padding-bottom:15px"><a href="https://nuft.notion.site/nuft/Northwestern-University-FinTech-Club-7aaab23485bb4d55a3032fd87951fb7c" target="_blank" class="button special">Notion</a></li>
+          <li style="padding-bottom:15px"><a href="https://northwesternfintech.github.io/" target="_blank" class="button special">Website</a></li>
 				</ul>
 			</div>
 		</div>
