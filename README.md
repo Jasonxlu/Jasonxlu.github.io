@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-This is my personal website which hosts my portfolio of projects and apps. It is customized by myself and built from:
+This is my personal website which hosts my portfolio of projects and apps. It is customized myself and built from:
 
 # Forty - Jekyll Integration
 
