@@ -4,17 +4,15 @@ This is my personal website which hosts my portfolio of projects and apps. It is
 
 # Forty - Jekyll Integration
 
-A Jekyll version of the "Forty" by [HTML5 UP](https://html5up.net/).  
+A Jekyll version of the "Forty" by [HTML5 UP](https://html5up.net/).
 
 # How to Use
 
-Check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
+Check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
+or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
-
 > NOTE: GitHub Actions is required to deploy to GitHub Pages because GitHub [refuses to update their version of Jekyll](https://github.com/github/pages-gem/issues/651).
-
 
 # Credits
 
@@ -30,6 +28,8 @@ you can use for pretty much whatever.
 
 AJ
 aj@lkn.io | @ajlkn
+
+Jekyll Integration: Andrew Banchich
 
 
 Credits:
