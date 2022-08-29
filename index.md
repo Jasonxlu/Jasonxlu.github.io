@@ -70,6 +70,3 @@ I am currently a Project Manager at NU's Fintech Club as well as a Committee Hea
   }
 }
 </style>
-
-
-

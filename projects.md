@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'A collection of my apps and projects.'
+description: "A collection of my apps and projects."
 image: assets/images/blue.jpeg
 nav-menu: true
 ---
@@ -23,11 +23,11 @@ nav-menu: true
   
 <style>
 
-  @media (max-width: 640px) {
-    #tech {
-      display: none;
-    }
-  }
+@media (max-width: 640px) {
+#tech {
+display: none;
+}
+}
 </style>
 
 <table id="tech">
@@ -418,9 +418,6 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-
-
-
 
 </div>
 
