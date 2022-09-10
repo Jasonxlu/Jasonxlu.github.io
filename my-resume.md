@@ -104,7 +104,7 @@ nav-menu: true
 
 </style>
 
-<img class="center" id="resume" src="assets/images/Resume.jpg" alt="Last updated: 9/4/2022">
+<img class="center" id="resume" src="assets/images/Resume.jpg" alt="Last updated: 9/10/2022">
 
 <!-- Modal  -->
 <div id="resumeModal" class="modal"> 
