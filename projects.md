@@ -10,7 +10,7 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section style="display:flex; flex-wrap:wrap; margin-bottom:20px;">
+<section style="display:flex; flex-wrap:wrap;">
   <div class="card">
     <img src="assets/images/nuft.png" alt="Avatar" style="width:25%">
     <div class="card-container">
