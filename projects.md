@@ -235,7 +235,7 @@ display: none;
   <div class="card">
     <img src="assets/images/nuft.png" alt="Avatar" style="width:25%">
     <div class="card-container">
-      <h4><b>John Doe</b></h4>
+      <h4><b>Quantitaive Trading Platform</b></h4>
       <p>Architect & Engineer</p>
     </div>
   </div>
@@ -243,39 +243,39 @@ display: none;
   <div class="card">
     <img src="assets/images/trophy.png" alt="Avatar" style="width:25%">
     <div class="card-container">
-      <h4><b>John Doe</b></h4>
+      <h4><b>Leetcode Leaderboard</b></h4>
       <p>Architect & Engineer</p>
     </div>
   </div>
 
   <div class="card">
-    <img src="assets/images/Northwestern.png" alt="Avatar" style="width:25%">
+    <img src="assets/images/nuse.png" alt="Avatar" style="width:25%">
     <div class="card-container">
-      <h4><b>John Doe</b></h4>
+      <h4><b>Trading Interface</b></h4>
       <p>Architect & Engineer</p>
     </div>
   </div>
 
   <div class="card">
-    <img src="assets/images/Northwestern.png" alt="Avatar" style="width:25%">
+    <img src="assets/images/pacman.png" alt="Avatar" style="width:25%">
     <div class="card-container">
-      <h4><b>John Doe</b></h4>
+      <h4><b>Pac-Man++</b></h4>
       <p>Architect & Engineer</p>
     </div>
   </div>
 
   <div class="card">
-    <img src="assets/images/Northwestern.png" alt="Avatar" style="width:25%">
+    <img src="assets/images/JL.png" alt="Avatar" style="width:25%">
     <div class="card-container">
-      <h4><b>John Doe</b></h4>
+      <h4><b>Web Portfolio</b></h4>
       <p>Architect & Engineer</p>
     </div>
   </div>
 
   <div class="card">
-    <img src="assets/images/Northwestern.png" alt="Avatar" style="width:25%">
+    <img src="assets/images/racketlogo.png" alt="Avatar" style="width:25%">
     <div class="card-container">
-      <h4><b>John Doe</b></h4>
+      <h4><b>Text Adventure Game</b></h4>
       <p>Architect & Engineer</p>
     </div>
   </div>
@@ -497,7 +497,7 @@ display: none;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   text-align:center;
-  padding-top: 24px;
+  padding-top: 32px;
   width:50%;
   flex-grow:3;
   }
