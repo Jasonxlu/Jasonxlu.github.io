@@ -231,7 +231,7 @@ display: none;
 	</div>
 </section>
 
-<div style="display:flex; flex-wrap:wrap;">
+<section style="display:flex; flex-wrap:wrap; margin-bottom:20px;">
   <div class="card">
     <img src="assets/images/nuft.png" alt="Avatar" style="width:25%">
     <div class="card-container">
@@ -325,10 +325,10 @@ display: none;
     </div>
   </div>
 
-</div>
+</section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<!-- <section id="two" class="spotlights">
 	<section>
 		<a class="image">
 			<img src="{% link assets/images/nuft.png %}" alt="" data-position="center center" style="padding-left: 25px; padding-right:25px; padding-top:25px;"/>
@@ -512,7 +512,7 @@ display: none;
 			</div>
 		</div>
 	</section>
-</section>
+</section> -->
 
 </div>
 
