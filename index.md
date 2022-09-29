@@ -24,7 +24,7 @@ I am currently a Project Manager at NU's Fintech Club as well as a Committee Hea
 </blockquote>
 
 <blockquote>
-    <b> Relevant Coursework: </b> Data Structures and Algorithms, Multivariable Calculus, Linear Algebra, Signal Processing, Solid State Engineering, Macroeconomics, Differential Equations, Functional Programming, C/C++ Programming, Python Programming, Statics, Design Thinking & Communication
+    <b> Relevant Coursework: </b> Data Structures and Algorithms, Multivariable Calculus, Linear Algebra, Signal Processing, Solid State Engineering, Macroeconomics, Differential Equations, Functional Programming, C/C++ Programming, Python Programming, Statics, Design Thinking & Communication, Generative Methods, Machine Learning, Database Management and Information Processing 
 </blockquote>
 
 <style>
