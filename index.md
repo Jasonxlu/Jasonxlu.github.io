@@ -15,7 +15,7 @@ show_tile: false
 <b style="font-size:24px;">Northwestern University</b> 
 <br/> <strong>Bachelor's and Master's Degree | Computer Science '25</strong>
 <br/> Data Science and Engineering Minor 
-<br/> On track to pursue both a Bachelors and Masters degree in CS as part of the BS/MS program. </div>
+<br/> On track to pursue a combined Bachelors and Masters degree in CS as part of the BS/MS program. </div>
 </div>
 </blockquote>
 
