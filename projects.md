@@ -75,7 +75,7 @@ nav-menu: true
     <img src="assets/images/racketlogo.png" alt="Avatar" style="width:25%">
     <div class="card-container">
       <h4><b>Text Adventure Game</b></h4>
-      <p>Written in Lisp-based language Racket, Introductory Game Development, Loosely based off Minecraft</p>
+      <p>Written in Lisp-based language Racket, Introductory Game Development, Loosely based on Minecraft</p>
       <ul class="actions">
 					<li><a href="https://github.com/Jasonxlu/RacketGame" target="_blank" class="button">GitHub Repo</a></li>
 				</ul>
@@ -97,7 +97,7 @@ nav-menu: true
     <img src="assets/images/bike-rack.png" alt="Avatar" style="width:25%">
     <div class="card-container">
       <h4><b>Condominium Bike Storage System</b></h4>
-      <p>10 Week Engineering Design Project, Small Team Management, On-site Interviews, Solution Research and Documentation</p>
+      <p>10 Week Engineering Design Project, Small Team Management, On-site Client Interviews, Solution Research and Documentation</p>
       <ul class="actions">
 					<li><a href="https://www.linkedin.com/in/jasonlu230/overlay/experience/1943238299/multiple-media-viewer?profileId=ACoAACWFKxkBNYy40EQ0NrAq1Dk1fVWEgezhFTQ&treasuryMediaId=1635487655487&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXCCeocgXRqCnvwBSB%2FbNUw%3D%3D" target="_blank" class="button">Final Report</a></li>
 				</ul>
