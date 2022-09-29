@@ -37,7 +37,7 @@ nav-menu: true
   </div>
 
   <div class="card">
-    <img src="assets/images/nuse.png" alt="Avatar" style="width:25%">
+    <img src="assets/images/NUSE.png" alt="Avatar" style="width:25%">
     <div class="card-container">
       <h4><b>Stock Exchange Interface</b></h4>
       <p>Intermediate Web Design, Web Frameworks [React.js, TailwindCSS, Next.js], Data Steams, WebSockets and RESTful APIs, Git</p>
