@@ -10,6 +10,102 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
+<section style="display:flex; flex-wrap:wrap; margin-bottom:20px;">
+  <div class="card">
+    <img src="assets/images/nuft.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>Quantitaive Trading Platform</b></h4>
+      <p>Systems Infrastructure Development, Data Management, CI/CD Pipelines, Project Management, Organization Leadership</p>
+      <ul class="actions">
+					<li style="padding-bottom:15px"><a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a></li>
+          <li style="padding-bottom:15px"><a href="https://nuft.notion.site/nuft/Northwestern-University-FinTech-Club-7aaab23485bb4d55a3032fd87951fb7c" target="_blank" class="button special">Notion</a></li>
+          <li style="padding-bottom:15px"><a href="https://northwesternfintech.github.io/" target="_blank" class="button">Website</a></li>
+				</ul>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/trophy.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>Leetcode Leaderboard</b></h4>
+      <p>Basic Web Design and Styling, APIs, GraphQL Querying, Version Controlled, Real Time Statistics</p>
+      <ul class="actions">
+					<li><a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://lc-leaderboard-eta.vercel.app/" target="_blank" class="button special">Website</a></li>
+				</ul>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/nuse.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>Stock Exchange Interface</b></h4>
+      <p>Intermediate Web Design, Web Frameworks [React.js, TailwindCSS, Next.js], Data Steams, WebSockets and RESTful APIs, Git</p>
+      <ul class="actions">
+					<li><a href="https://github.com/northwesternfintech" target="_blank" class="button">GitHub Repo</a></li>
+					<!-- <li><a href="404.html" class="button special">Website</a></li> -->
+				</ul>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/pacman.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>Pac-Man++</b></h4>
+      <p>Pure C++ Game Development, SDL2 Subset Game Engine, GUI Development, Custom Graphics</p>
+      <ul class="actions">
+					<li><a href="https://github.com/Jasonxlu/Pac-Man-PlusPlus" target="_blank" class="button">GitHub Repo</a></li>
+					<li><a href="https://youtu.be/f8vTbcUvP50" target="_blank" class="button special">Video Demo</a></li>
+				</ul>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/JL.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>Web Portfolio</b></h4>
+      <p>Jekyll and Github Pages Hosting, Custom HTML/CSS/JS, Web Template Overhaul</p>
+      <ul class="actions">
+					<li><a href="https://github.com/Jasonxlu/Jasonxlu.github.io" target="_blank" class="button">GitHub Repo</a></li>
+				</ul>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/racketlogo.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>Text Adventure Game</b></h4>
+      <p>Written in Lisp-based language Racket, Introductory Game Development, Loosely based off Minecraft</p>
+      <ul class="actions">
+					<li><a href="https://github.com/Jasonxlu/RacketGame" target="_blank" class="button">GitHub Repo</a></li>
+				</ul>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/wheel-chair.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>Wheelchair Seatbelt Storage</b></h4>
+      <p>10 Week Engineering Design Project, Client Communication, Rapid Prototyping, Remote-based</p>
+      <ul class="actions">
+					<li><a href="https://www.linkedin.com/in/jasonlu230/overlay/1635493821217/single-media-viewer?type=DOCUMENT&profileId=ACoAACWFKxkBNYy40EQ0NrAq1Dk1fVWEgezhFTQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTm3KpXHsTp2wdT%2BP763syA%3D%3D" target="_blank" class="button">Final Report</a></li>
+				</ul>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/bike-rack.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>Condominium Bike Storage System</b></h4>
+      <p>10 Week Engineering Design Project, Small Team Management, On-site Interviews, Solution Research and Documentation</p>
+      <ul class="actions">
+					<li><a href="https://www.linkedin.com/in/jasonlu230/overlay/experience/1943238299/multiple-media-viewer?profileId=ACoAACWFKxkBNYy40EQ0NrAq1Dk1fVWEgezhFTQ&treasuryMediaId=1635487655487&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXCCeocgXRqCnvwBSB%2FbNUw%3D%3D" target="_blank" class="button">Final Report</a></li>
+				</ul>
+    </div>
+  </div>
+</section>
+
+<!-- Two -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -229,102 +325,6 @@ display: none;
   </tr>
 </table>
 	</div>
-</section>
-
-<section style="display:flex; flex-wrap:wrap; margin-bottom:20px;">
-  <div class="card">
-    <img src="assets/images/nuft.png" alt="Avatar" style="width:25%">
-    <div class="card-container">
-      <h4><b>Quantitaive Trading Platform</b></h4>
-      <p>Systems Infrastructure Development, Data Management, CI/CD Pipelines, Project Management, Organization Leadership</p>
-      <ul class="actions">
-					<li style="padding-bottom:15px"><a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a></li>
-          <li style="padding-bottom:15px"><a href="https://nuft.notion.site/nuft/Northwestern-University-FinTech-Club-7aaab23485bb4d55a3032fd87951fb7c" target="_blank" class="button special">Notion</a></li>
-          <li style="padding-bottom:15px"><a href="https://northwesternfintech.github.io/" target="_blank" class="button">Website</a></li>
-				</ul>
-    </div>
-  </div>
-
-  <div class="card">
-    <img src="assets/images/trophy.png" alt="Avatar" style="width:25%">
-    <div class="card-container">
-      <h4><b>Leetcode Leaderboard</b></h4>
-      <p>Basic Web Design and Styling, APIs, GraphQL Querying, Version Controlled, Real Time Statistics</p>
-      <ul class="actions">
-					<li><a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="https://lc-leaderboard-eta.vercel.app/" target="_blank" class="button special">Website</a></li>
-				</ul>
-    </div>
-  </div>
-
-  <div class="card">
-    <img src="assets/images/nuse.png" alt="Avatar" style="width:25%">
-    <div class="card-container">
-      <h4><b>Stock Exchange Interface</b></h4>
-      <p>Intermediate Web Design, Web Frameworks [React.js, TailwindCSS, Next.js], Data Steams, WebSockets and RESTful APIs, Git</p>
-      <ul class="actions">
-					<li><a href="https://github.com/northwesternfintech" target="_blank" class="button">GitHub Repo</a></li>
-					<!-- <li><a href="404.html" class="button special">Website</a></li> -->
-				</ul>
-    </div>
-  </div>
-
-  <div class="card">
-    <img src="assets/images/pacman.png" alt="Avatar" style="width:25%">
-    <div class="card-container">
-      <h4><b>Pac-Man++</b></h4>
-      <p>Pure C++ Game Development, SDL2 Subset Game Engine, GUI Development, Custom Graphics</p>
-      <ul class="actions">
-					<li><a href="https://github.com/Jasonxlu/Pac-Man-PlusPlus" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="https://youtu.be/f8vTbcUvP50" target="_blank" class="button special">Video Demo</a></li>
-				</ul>
-    </div>
-  </div>
-
-  <div class="card">
-    <img src="assets/images/JL.png" alt="Avatar" style="width:25%">
-    <div class="card-container">
-      <h4><b>Web Portfolio</b></h4>
-      <p>Jekyll and Github Pages Hosting, Custom HTML/CSS/JS, Web Template Overhaul</p>
-      <ul class="actions">
-					<li><a href="https://github.com/Jasonxlu/Jasonxlu.github.io" target="_blank" class="button">GitHub Repo</a></li>
-				</ul>
-    </div>
-  </div>
-
-  <div class="card">
-    <img src="assets/images/racketlogo.png" alt="Avatar" style="width:25%">
-    <div class="card-container">
-      <h4><b>Text Adventure Game</b></h4>
-      <p>Written in Lisp-based language Racket, Introductory Game Development, Loosely based off Minecraft</p>
-      <ul class="actions">
-					<li><a href="https://github.com/Jasonxlu/RacketGame" target="_blank" class="button">GitHub Repo</a></li>
-				</ul>
-    </div>
-  </div>
-
-  <div class="card">
-    <img src="assets/images/wheel-chair.png" alt="Avatar" style="width:25%">
-    <div class="card-container">
-      <h4><b>Wheelchair Seatbelt Storage</b></h4>
-      <p>10 Week Engineering Design Project, Client Communication, Rapid Prototyping, Remote-based</p>
-      <ul class="actions">
-					<li><a href="https://www.linkedin.com/in/jasonlu230/overlay/1635493821217/single-media-viewer?type=DOCUMENT&profileId=ACoAACWFKxkBNYy40EQ0NrAq1Dk1fVWEgezhFTQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTm3KpXHsTp2wdT%2BP763syA%3D%3D" target="_blank" class="button">Final Report</a></li>
-				</ul>
-    </div>
-  </div>
-
-  <div class="card">
-    <img src="assets/images/bike-rack.png" alt="Avatar" style="width:25%">
-    <div class="card-container">
-      <h4><b>Condominium Bike Storage System</b></h4>
-      <p>10 Week Engineering Design Project, Small Team Management, On-site Interviews, Solution Research and Documentation</p>
-      <ul class="actions">
-					<li><a href="https://www.linkedin.com/in/jasonlu230/overlay/experience/1943238299/multiple-media-viewer?profileId=ACoAACWFKxkBNYy40EQ0NrAq1Dk1fVWEgezhFTQ&treasuryMediaId=1635487655487&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXCCeocgXRqCnvwBSB%2FbNUw%3D%3D" target="_blank" class="button">Final Report</a></li>
-				</ul>
-    </div>
-  </div>
-
 </section>
 
 <!-- Two -->
