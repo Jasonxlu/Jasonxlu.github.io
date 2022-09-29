@@ -17,8 +17,7 @@ nav-menu: true
 		</header>
 		<blockquote> 
 		<b>Languages: </b> Python, Java, C, C++, JavaScript, Typescript, HTML, CSS, SASS, Markdown, Racket<br/>
-		<b>Technologies: </b>Git, GitHub, UNIX Shell, Jekyll, WebSocket, Firebase, NodeJS, Python Multiprocessing, AsyncIO, Jest<br/>
-		<b>Frameworks: </b>ReactJS, jQuery, Bootstrap, DearPyGui, Kivy, TailwindCSS, NextJS
+		<b>Technologies: </b>Git, React.js, Next.js, Firebase, Tailwind, NodeJS, MATLAB, UNIX Shell, GitHub, Figma, MySQL, Jekyll, Docker, Jenkins, WebSocket<br/>
 		</blockquote>
   
 <style>
@@ -145,12 +144,12 @@ display: none;
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
         width="48"
         height="48"
-        alt="Jest"
+        alt="Docker"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>Docker</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -202,12 +201,12 @@ display: none;
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
         width="48"
         height="48"
-        alt="Markdown"
+        alt="Jenkins"
       />
-      <br /><strong>Markdown</strong>
+      <br /><strong>Jenkins</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -231,6 +230,73 @@ display: none;
 </table>
 	</div>
 </section>
+
+<div style="display:flex; flex-wrap:wrap;">
+  <div class="card">
+    <img src="assets/images/nuft.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/trophy.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/Northwestern.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/Northwestern.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/Northwestern.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/Northwestern.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/Northwestern.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="assets/images/Northwestern.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
+
+</div>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -425,4 +491,24 @@ display: none;
 	#one {
 		/* background-image: url("../assets/images/banner.jpg"); */
 	}
+
+  .card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  text-align:center;
+  padding-top: 24px;
+  width:50%;
+  flex-grow:3;
+  }
+
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 12px 16px 0 rgba(150,255,255,0.2);
+  }
+
+  /* Add some padding inside the card container */
+  .card-container {
+    padding: 2px 16px;
+  }
 </style>
