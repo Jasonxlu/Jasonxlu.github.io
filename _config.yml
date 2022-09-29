@@ -1,7 +1,7 @@
 # site settings
 title: Jason Lu
 subtitle: Portfolio
-email: jasonlu2025@u.northwestern.edu
+email: jasonlu@u.northwestern.edu
 description: Welcome to my portfolio!<br/> Feel free to check out some of my work
 baseurl: # the subpath of your site, e.g. /blog
 url: 'https://Jasonxlu.github.io' # the base hostname & protocol for your site
