@@ -40,7 +40,7 @@ nav-menu: true
     <img src="assets/images/NUSE.png" alt="Avatar" style="width:25%">
     <div class="card-container">
       <h4><b>Stock Exchange Interface</b></h4>
-      <p>Intermediate Web Design, Web Frameworks [React.js, TailwindCSS, Next.js], Data Steams, WebSockets and RESTful APIs, Git</p>
+      <p>Intermediate Web Development, Web Frameworks [React.js, TailwindCSS, Next.js], Data Steams, WebSockets and RESTful APIs, Git</p>
       <ul class="actions">
 					<li><a href="https://github.com/northwesternfintech" target="_blank" class="button">GitHub Repo</a></li>
 					<!-- <li><a href="404.html" class="button special">Website</a></li> -->
