@@ -533,7 +533,7 @@ display: none;
 
   /* On mouse-over, add a deeper shadow */
   .card:hover {
-    box-shadow: 0 12px 16px 0 rgba(150,255,255,0.2);
+    box-shadow: 0 12px 16px 0 rgba(100, 255, 255,0.2);
   }
 
   /* Add some padding inside the card container */
