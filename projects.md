@@ -30,8 +30,8 @@ nav-menu: true
       <h4><b>Leetcode Leaderboard</b></h4>
       <p>Basic Web Design and Styling, APIs, GraphQL Querying, Version Controlled, Real Time Statistics</p>
       <ul class="actions">
-					<li><a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="https://lc-leaderboard-eta.vercel.app/" target="_blank" class="button special">Website</a></li>
+					<li style="padding-bottom:15px"><a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">GitHub Repo</a></li>
+					<li style="padding-bottom:15px"><a href="https://lc-leaderboard-eta.vercel.app/" target="_blank" class="button special">Website</a></li>
 				</ul>
     </div>
   </div>
@@ -54,8 +54,8 @@ nav-menu: true
       <h4><b>Pac-Man++</b></h4>
       <p>Pure C++ Game Development, SDL2 Subset Game Engine, GUI Development, Custom Graphics</p>
       <ul class="actions">
-					<li><a href="https://github.com/Jasonxlu/Pac-Man-PlusPlus" target="_blank" class="button">GitHub Repo</a></li>
-					<li><a href="https://youtu.be/f8vTbcUvP50" target="_blank" class="button special">Video Demo</a></li>
+					<li style="padding-bottom:15px"><a href="https://github.com/Jasonxlu/Pac-Man-PlusPlus" target="_blank" class="button">GitHub Repo</a></li>
+					<li style="padding-bottom:15px"><a href="https://youtu.be/f8vTbcUvP50" target="_blank" class="button special">Video Demo</a></li>
 				</ul>
     </div>
   </div>
@@ -122,7 +122,14 @@ nav-menu: true
 #tech {
 display: none;
 }
+
+.actions {
+display:flex;
+flex-wrap: wrap;
 }
+
+}
+
 </style>
 
 <table id="tech">
