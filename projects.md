@@ -29,10 +29,10 @@ nav-menu: true
     <div class="card-container">
       <h4><b>Leetcode Leaderboard</b></h4>
       <p>Basic Web Design and Styling, APIs, GraphQL Querying, Version Controlled, Real Time Statistics</p>
-      <ul class="actions">
-					<li style="padding-bottom:15px"><a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button fit">GitHub Repo</a></li>
-					<li style="padding-bottom:15px"><a href="https://lc-leaderboard-eta.vercel.app/" target="_blank" class="button special fit">Website</a></li>
-				</ul>
+      <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+					<a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button fit">GitHub Repo</a>
+					<a href="https://lc-leaderboard-eta.vercel.app/" target="_blank" class="button special fit">Website</a>
+				</div>
     </div>
   </div>
 
