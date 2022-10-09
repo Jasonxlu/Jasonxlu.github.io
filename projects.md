@@ -16,11 +16,11 @@ nav-menu: true
     <div class="card-container">
       <h4><b>Quantitaive Trading Platform</b></h4>
       <p>Systems Infrastructure Development, Data Management, CI/CD Pipelines, Project Management, Organization Leadership</p>
-      <ul class="actions">
-					<li style="padding-bottom:15px"><a href="https://github.com/echavemann/NUFT" target="_blank" class="button fit">GitHub Repo</a></li>
-          <li style="padding-bottom:15px;"><a href="https://nuft.notion.site/nuft/Northwestern-University-FinTech-Club-7aaab23485bb4d55a3032fd87951fb7c" target="_blank" class="button special fit">Notion</a></li>
-          <li style="padding-bottom:15px"><a href="https://northwesternfintech.github.io/" target="_blank" class="button fit">Website</a></li>
-				</ul>
+      <div style="display:inline-flex; gap:16px; flex-wrap:wrap; justify-content:center;">
+				<a href="https://github.com/echavemann/NUFT" target="_blank" class="button">GitHub Repo</a>
+        <a href="https://nuft.notion.site/nuft/Northwestern-University-FinTech-Club-7aaab23485bb4d55a3032fd87951fb7c" target="_blank" class="button special">Notion</a>
+        <a href="https://northwesternfintech.github.io/" target="_blank" class="button">Website</a>
+      </div>
     </div>
   </div>
 
