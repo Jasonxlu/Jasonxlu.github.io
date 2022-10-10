@@ -10,7 +10,7 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section style="display:flex; flex-wrap:wrap;">
+<section id="cards" style="display:flex; flex-wrap:wrap;">
   <div class="card">
     <img src="assets/images/nuft.png" alt="Avatar" style="width:25%">
     <div class="card-container">
@@ -114,22 +114,6 @@ nav-menu: true
 		<b>Languages: </b> Python, Java, C, C++, JavaScript, Typescript, HTML, CSS, SASS, Markdown, Racket<br/>
 		<b>Technologies: </b>Git, React.js, Next.js, Firebase, Tailwind, NodeJS, MATLAB, UNIX Shell, GitHub, Figma, MySQL, Jekyll, Docker, Jenkins, WebSocket<br/>
 		</blockquote>
-  
-<style>
-
-@media (max-width: 640px) {
-#tech {
-display: none;
-}
-
-.actions {
-display:flex;
-flex-wrap: wrap;
-}
-
-}
-
-</style>
 
 <table id="tech">
   <tr>
@@ -340,6 +324,7 @@ flex-wrap: wrap;
 		/* background-image: url("../assets/images/banner.jpg"); */
 	}
 
+
   .card {
   /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -359,4 +344,24 @@ flex-wrap: wrap;
   .card-container {
     padding: 2px 16px;
   }
+</style>
+
+<style>
+
+@media (max-width: 640px) {
+#tech {
+display: none;
+}
+
+.card {
+width:100%;
+}
+
+.actions {
+display:flex;
+flex-wrap: wrap;
+}
+
+}
+
 </style>
