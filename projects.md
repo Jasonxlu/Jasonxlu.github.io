@@ -404,4 +404,3 @@ flex-wrap: wrap;
 }
 
 </style>
-<script src="assets/js/ani.js"></script>
