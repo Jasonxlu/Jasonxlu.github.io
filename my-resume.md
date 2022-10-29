@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-image: assets/images/purple.jpeg
+image: assets/images/red.jpeg
 description: An overview of my experience.
 nav-menu: true
 ---
