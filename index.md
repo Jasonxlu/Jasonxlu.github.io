@@ -20,7 +20,7 @@ show_tile: false
 </blockquote>
 
 <blockquote>
-I am currently a Project Manager at NU's Fintech Club as well as a Committee Head for SASE NU. I love learning new skills and technologies to build out projects of all scales. My personal interests include playing the piano, working out, playing video games, and reading a good book. 
+I am currently a Project Manager at NU's Fintech Club as well as a Committee Head for SASE NU. I love learning new skills and technologies to build out projects of all scales. My personal interests include playing the piano, working out, going on adventures, and reading a good book. 
 </blockquote>
 
 <blockquote>
