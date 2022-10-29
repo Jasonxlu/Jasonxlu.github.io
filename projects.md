@@ -320,6 +320,45 @@ nav-menu: true
 </div>
 
 <style>
+
+  @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900&display=swap');
+
+.card img {
+  margin-right:15px;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.card{
+
+  background: linear-gradient(-45deg, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #000000e0 50%, #000000e0 62%, #000000e0 75%, #000000e0 87%, #000000e0 100%);;
+  background-size: 400% 400%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card:hover{
+  animation: animate 5s ease-in-out infinite;
+  z-index:10;
+}
+
+
+@keyframes animate{
+  0%{
+    background-position: 0 50%;
+  }
+  50%{
+    background-position: 100% 50%;
+  }
+  100%{
+    background-position: 0 50%;
+  }
+}
+
 	#one {
 		/* background-image: url("../assets/images/banner.jpg"); */
 	}
@@ -365,3 +404,4 @@ flex-wrap: wrap;
 }
 
 </style>
+<script src="assets/js/ani.js"></script>
