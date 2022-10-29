@@ -333,7 +333,7 @@ body {
 
 .card{
 
-  background: linear-gradient(-45deg, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #000000e0 50%, #000000e0 62%, #000000e0 75%, #000000e0 87%, #000000e0 100%);;
+  background: linear-gradient(-45deg, #000000e0 0%, #240090 13%, #3D25A7 25%, #4A38B3 38%, #000000e0 50%, #000000e0 62%, #000000e0 75%, #1a1a1d 87%, #000000e0 100%);;
   background-size: 400% 400%;
   position: relative;
   display: flex;
@@ -342,7 +342,7 @@ body {
 }
 
 .card:hover{
-  animation: animate 5s ease-in-out infinite;
+  animation: animate 6s ease-in-out infinite;
   z-index:10;
 }
 
@@ -376,7 +376,7 @@ body {
 
   /* On mouse-over, add a deeper shadow */
   .card:hover {
-    box-shadow: 0 12px 16px 0 rgba(100, 255, 255,0.2);
+    box-shadow: 0 12px 16px 0 rgba(136, 148, 236,0.2);
   }
 
   /* Add some padding inside the card container */
