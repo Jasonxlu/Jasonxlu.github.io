@@ -18,8 +18,8 @@ nav-menu: true
       <p>Systems Infrastructure Development, Data Management, CI/CD Pipelines, Project Management, Organization Leadership</p>
       <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
 				<a href="https://github.com/echavemann/NUFT" target="_blank" class="button fit">GitHub Repo</a>
-        <a href="https://nuft.notion.site/nuft/Northwestern-University-FinTech-Club-7aaab23485bb4d55a3032fd87951fb7c" target="_blank" class="button special fit">Notion</a>
-        <a href="https://northwesternfintech.github.io/" target="_blank" class="button fit">Website</a>
+        <!-- <a href="https://nuft.notion.site/nuft/Northwestern-University-FinTech-Club-7aaab23485bb4d55a3032fd87951fb7c" target="_blank" class="button special fit">Notion</a> -->
+        <a href="https://northwesternfintech.github.io/" target="_blank" class="button special fit">Website</a>
       </div>
     </div>
   </div>
