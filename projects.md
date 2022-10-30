@@ -14,7 +14,7 @@ nav-menu: true
   <div class="card">
     <img src="assets/images/nuft.png" alt="Avatar" style="width:25%">
     <div class="card-container">
-      <h4><b>Quantitaive Trading Platform</b></h4>
+      <h4><b>Quantitative Trading Platform</b></h4>
       <p>Systems Infrastructure Development, Data Management, CI/CD Pipelines, Project Management, Organization Leadership</p>
       <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
 				<a href="https://github.com/echavemann/NUFT" target="_blank" class="button fit">GitHub Repo</a>
