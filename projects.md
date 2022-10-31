@@ -260,12 +260,12 @@ nav-menu: true
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
         width="48"
         height="48"
-        alt="GitHub"
+        alt="Figma"
       />
-      <br /><strong>GitHub</strong>
+      <br /><strong>Figma</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -287,12 +287,12 @@ nav-menu: true
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
         width="48"
         height="48"
-        alt="Jenkins"
+        alt="Numpy"
       />
-      <br /><strong>Jenkins</strong>
+      <br /><strong>Numpy</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
