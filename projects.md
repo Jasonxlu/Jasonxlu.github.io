@@ -333,7 +333,7 @@ body {
 
 .card{
 
-  background: linear-gradient(-45deg, #000000e0 0%, #240090 13%, #3D25A7 25%, #4A38B3 38%, #000000e0 50%, #000000e0 62%, #000000e0 75%, #1a1a1d 87%, #000000e0 100%);;
+  background: linear-gradient(-45deg, #000000e0 0%, #240090 13%, #3D25A7 25%, #4A38B3 38%, #4A38B3 50%, #000000e0 62%, #000000e0 75%, #1a1a1d 87%, #000000e0 100%);;
   background-size: 400% 400%;
   position: relative;
   display: flex;
@@ -342,7 +342,7 @@ body {
 }
 
 .card:hover{
-  animation: animate 6s ease-in-out infinite;
+  animation: animate 4.5s ease-in-out infinite;
   z-index:10;
 }
 
