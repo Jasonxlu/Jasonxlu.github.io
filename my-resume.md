@@ -26,10 +26,26 @@ nav-menu: true
         cursor: pointer;
         transition: 0.3s;
         box-shadow: 0px 6px 8px 0 rgba(0, 0, 0, 0.2), 0px 8px 20px 0 rgba(0, 0, 0, 0.19);
+        background: linear-gradient(-45deg, #000000e0 0%, #240090 13%, #3D25A7 25%, #4A38B3 38%, #4A38B3 50%, #000000e0 62%, #000000e0 75%, #1a1a1d 87%, #000000e0 100%);;
+        background-size: 400% 400%;
     }
 
     #resume:hover {
         opacity: 0.7;
+        animation: animate 4.5s ease-in-out infinite;
+        z-index:10;
+    }
+
+    @keyframes animate{
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
     }
 
     /* Creating Modal Overlay */
