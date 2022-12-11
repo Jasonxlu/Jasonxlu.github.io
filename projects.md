@@ -13,12 +13,12 @@ nav-menu: true
 <section id="cards" style="display:flex; flex-wrap:wrap;">
 
   <div class="card">
-    <img src="assets/images/bike-rack.png" alt="Avatar" style="width:25%">
+    <img src="assets/images/bitcoin.png" alt="Avatar" style="width:25%">
     <div class="card-container">
       <h4><b>Bitcoin Data Visualization</b></h4>
-      <p>10 Week Engineering Design Project, Small Team Management, On-site Client Interviews, Solution Research and Documentation</p>
+      <p>Azure Cloud Databases, Microsoft SQL Server, Relational design, Python Application, Matplotlib, Data Cleaning</p>
       <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-					<a href="https://www.linkedin.com/in/jasonlu230/overlay/experience/1943238299/multiple-media-viewer?profileId=ACoAACWFKxkBNYy40EQ0NrAq1Dk1fVWEgezhFTQ&treasuryMediaId=1635487655487&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXCCeocgXRqCnvwBSB%2FbNUw%3D%3D" target="_blank" class="button fit">Final Report</a>
+					<a href="https://www.linkedin.com/in/jasonlu230/overlay/experience/1943238299/multiple-media-viewer?profileId=ACoAACWFKxkBNYy40EQ0NrAq1Dk1fVWEgezhFTQ&treasuryMediaId=1635487655487&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXCCeocgXRqCnvwBSB%2FbNUw%3D%3D" target="_blank" class="button fit">GitHub Repo</a>
 			</div>
     </div>
   </div>
