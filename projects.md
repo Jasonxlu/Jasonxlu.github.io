@@ -104,13 +104,19 @@ nav-menu: true
   </div>
 
   <div class="card">
-    <img src="assets/images/trophy.png" alt="Avatar" style="width:25%">
+    <img src="assets/images/genmeth.png" alt="Avatar" style="width:25%">
     <div class="card-container">
       <h4><b>Generative Methods Collection</b></h4>
-      <p>CS396, Animations, Processing, APIs, Machine Learning, Neural Networks, Data Visualization, Hand and Face Tracking, Chat Bots</p>
+      <p>JS Animations, Processing, APIs, Machine Learning, Neural Networks, Data Visualization, Hand and Face Tracking, Chat Bots</p>
       <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-					<a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">Dropdown</a>
-          <a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">Dropdown</a>
+					<a href="https://json-a2.glitch.me" target="_blank" class="button">Animations</a>
+          <a href="https://json-a3.glitch.me" target="_blank" class="button">Interactive Tools</a>
+          <a href="https://json-a4.glitch.me" target="_blank" class="button">Particles</a>
+          <a href="https://json-a5.glitch.me" target="_blank" class="button">Evolutions</a>
+          <a href="https://json-a6.glitch.me" target="_blank" class="button">Chat-bots</a>
+          <a href="https://json-a7.glitch.me" target="_blank" class="button">Data Visualization</a>
+          <a href="https://json-a8.glitch.me" target="_blank" class="button">Body Tracking</a>
+          <a href="https://json-a9.glitch.me" target="_blank" class="button">Machine Learning</a>
 			</div>
     </div>
   </div>
