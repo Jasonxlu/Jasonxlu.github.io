@@ -102,6 +102,18 @@ nav-menu: true
 			</div>
     </div>
   </div>
+
+  <div class="card">
+    <img src="assets/images/trophy.png" alt="Avatar" style="width:25%">
+    <div class="card-container">
+      <h4><b>Generative Methods Collection</b></h4>
+      <p>CS396, Animations, Processing, APIs, Machine Learning, Neural Networks, Data Visualization, Hand and Face Tracking, Chat Bots</p>
+      <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+					<a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">Dropdown</a>
+          <a href="https://github.com/northwesternfintech/LCLeaderboard" target="_blank" class="button">Dropdown</a>
+			</div>
+    </div>
+  </div>
 </section>
 
 <!-- Two -->
