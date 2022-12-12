@@ -346,6 +346,71 @@ nav-menu: true
       <br /><strong>GraphQL</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+        width="48"
+        height="48"
+        alt="Azure"
+      />
+      <br /><strong>Azure</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        width="48"
+        height="48"
+        alt="MySQL"
+      />
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+        width="48"
+        height="48"
+        alt="Sqlite"
+      />
+      <br /><strong>Sqlite</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg"
+        width="48"
+        height="48"
+        alt="Minitab"
+      />
+      <br /><strong>Minitab</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
+        width="48"
+        height="48"
+        alt="Vim"
+      />
+      <br /><strong>Vim</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+        width="48"
+        height="48"
+        alt="Canva"
+      />
+      <br /><strong>Canva</strong>
+    </td>
+  </tr>
 </table>
 	</div>
 </section>
