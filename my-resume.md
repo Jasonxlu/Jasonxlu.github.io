@@ -120,7 +120,7 @@ nav-menu: true
 
 </style>
 
-<img class="center" id="resume" src="assets/images/Resume.jpg" alt="Last updated: 4/29/2023">
+<img class="center" id="resume" src="assets/images/Resume.jpg" alt="Last updated: 5/24/2023">
 
 <!-- Modal  -->
 <div id="resumeModal" class="modal"> 
