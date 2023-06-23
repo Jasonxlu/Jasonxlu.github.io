@@ -1,7 +1,7 @@
 # site settings
 title: Jason Lu
 subtitle: Portfolio
-email: jasonlu@u.northwestern.edu
+email: jasonxlu.dev@gmail.com
 description: Welcome to my portfolio!<br/> Feel free to check out some of my work
 baseurl: # the subpath of your site, e.g. /blog
 url: 'https://Jasonxlu.github.io' # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city:
 state: 
 zip_code: 
 country:  
-phone: https://www.linkedin.com/in/jasonlu230
+phone: https://www.linkedin.com/in/jasonxlu
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -26,7 +26,7 @@ socials:
   GitLab:
   Google-Plus: 
   Instagram: https://www.instagram.com/jasonlu.23/
-  LinkedIn: https://www.linkedin.com/in/jasonlu230
+  LinkedIn: https://www.linkedin.com/in/jasonxlu
   Twitter: 
   Facebook: https://www.facebook.com/jasonlu2930/
   Slack: 
