@@ -144,8 +144,7 @@ nav-menu: true
 			<h2>Skills</h2>
 		</header>
 		<blockquote> 
-		<b>Languages: </b> Python, Java, C, C++, JavaScript, Typescript, HTML, CSS, SASS, Markdown, Racket<br/>
-		<b>Technologies: </b>Git, React.js, Next.js, Firebase, Tailwind, NodeJS, MATLAB, UNIX Shell, GitHub, Figma, MySQL, Jekyll, Docker, Jenkins, WebSocket<br/>
+		<b>Technologies I have worked with:</b>
 		</blockquote>
 
 <table id="tech">
